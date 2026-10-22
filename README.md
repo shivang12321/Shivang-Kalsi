@@ -25,6 +25,7 @@ I'm a Computer Science student focused on building strong foundations in softwar
 **Languages**
 - Java
 - Python
+- C , C++
 
 **Currently Learning**
 - Data Structures & Algorithms
